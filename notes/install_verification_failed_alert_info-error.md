@@ -1,4 +1,4 @@
-# INSTALL_VERIFICATION_FAILED_ALERT_INFO Error with Office 365 and MacOS
+# INSTALL_VERIFICATION_FAILED_ALERT_INFO Error with Office 365 and macOS
 
 While installing Office 365 (16.25.19051201) for a client (macOS High Sierra 10.13.6), Microsoft AutoUpdate (MAU) pops up with an error saying "INSTALL_VERIFICATION_FAILED_ALERT_INFO". Clicking OK would open the browser and it would proceed to download the latest AutoUpdate to install. However, at the end of the install the error comes up again. Repeat until annoyed.
 
