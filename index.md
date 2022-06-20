@@ -1,3 +1,7 @@
+---
+title: Jonathan M. Tran
+---
+
 ## Links of Interest
 
 * [Blog](https://blog.jonathanmtran.com)
