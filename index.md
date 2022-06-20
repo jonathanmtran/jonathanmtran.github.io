@@ -7,7 +7,10 @@
 
 ## What Am I Up To?
 
+As of June 2022, here are some of the things I am working on/messing with:
+
 * **Ansible** to maintain configuration for services such as BIND and Icinga2
-* Slightly advanced routing/mixing and multitrack recording with **[Behringer X32](https://www.behringer.com/product.html?modelCode=P0AWQ)**
+* Slightly advanced live routing/mixing and multitrack recording with **[Behringer X32](https://www.behringer.com/product.html?modelCode=P0AWQ)**
+* Web components using **[Lit](https://lit.dev)** (for the day job)
 * **Proxmox** for VMs (currently using ESXi) and LXC containers
-* **[Lit](https://lit.dev)** Web components (for the day job)
+* TypeScript (fueled by the day job)
