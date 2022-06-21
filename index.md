@@ -17,4 +17,4 @@ As of June 2022, here are some of the things I am working on/messing with:
 * Slightly advanced live routing/mixing and multitrack recording with **[Behringer X32](https://www.behringer.com/product.html?modelCode=P0AWQ)**
 * Web components using **[Lit](https://lit.dev)** (for the day job)
 * **Proxmox** for VMs (currently using ESXi) and LXC containers
-* TypeScript (fueled by the day job)
+* TypeScript (driven by the day job)
