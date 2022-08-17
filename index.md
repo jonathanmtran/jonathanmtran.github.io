@@ -18,3 +18,9 @@ As of June 2022, here are some of the things I am working on/messing with:
 * Web components using **[Lit](https://lit.dev)** (for the day job)
 * **Proxmox** for VMs (currently using ESXi) and LXC containers
 * TypeScript (driven by the day job)
+
+## Things (for Me) to Check Out
+
+* Audinate's Dante Certification Program
+* VyOS
+* WireGuard
