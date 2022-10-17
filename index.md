@@ -11,10 +11,11 @@ title: Jonathan M. Tran
 
 ## What Am I Up To?
 
-As of September 2022, here are some of the things I am working on/messing with:
+As of October 2022, here are some of the things I am working on/messing with:
 
 * **Ansible** to maintain configuration for services such as BIND and Icinga2
 * **Ansible** to bootstrap LXC instances (see [lxc-bootstrap](https://github.com/jonathanmtran/lxc-bootstrap))
+* **React**
 * **Proxmox** for VMs (currently using ESXi) and LXC containers
 
 ## Things (for Me) to Check Out
