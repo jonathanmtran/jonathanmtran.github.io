@@ -14,7 +14,7 @@ title: Jonathan M. Tran
 As of October 2022, here are some of the things I am working on/messing with:
 
 * **Ansible** to maintain configuration for services such as BIND and Icinga2
-* **Ansible** to bootstrap LXC instances (see [lxc-bootstrap](https://github.com/jonathanmtran/lxc-bootstrap))
+* **[lxc-bootstrap](https://github.com/jonathanmtran/lxc-bootstrap)**: an Ansible playbook to bootstrap LXC instances
 * **React**
 * **Proxmox** for VMs (currently using ESXi) and LXC containers
 
