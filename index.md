@@ -11,15 +11,14 @@ title: Jonathan M. Tran
 
 ## What Am I Up To?
 
-As of October 2022, here are some of the things I am working on/messing with:
+As of April 2023, here are some of the things I am working on/messing with:
 
 * **Ansible** to maintain configuration for services such as BIND and Icinga2
-* **[lxc-bootstrap](https://github.com/jonathanmtran/lxc-bootstrap)**: an Ansible playbook to bootstrap LXC instances
-* **React**
+* **React**/**Next.js**/**GraphQL**
+  * [vnk](https://github.com/jonathanmtran/vnk), a (YouTube) Karaoke queuing web application 
 * **Proxmox** for VMs (currently using ESXi) and LXC containers
+* **WireGuard**
 
 ## Things (for Me) to Check Out
 
 * Audinate's Dante Certification Program
-* VyOS
-* WireGuard
