@@ -11,7 +11,8 @@ title: Jonathan M. Tran
 
 ## Recently Blogged
 
-[Adding the VIQR input method to IBus](https://blog.jonathanmtran.com/2023/09/adding-the-viqr-input-method-to-ibus/), Posted 2023-09-18
+* [Create a metadata XMP sidecar file using exiftool](https://blog.jonathanmtran.com/2025/02/create-metadata-xmp-sidecar-file-using-exiftool/)
+* [Delegate ACME challenges to another nameserver](https://blog.jonathanmtran.com/2020/05/delegate-acme-challenges-to-another-nameserver/)
 
 ## What Am I Up To?
 
