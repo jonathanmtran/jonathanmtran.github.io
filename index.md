@@ -15,11 +15,9 @@ title: Jonathan M. Tran
 
 ## What Am I Up To?
 
-As of September 2023, here are some of the things I am working on/messing with:
+As of January 2025, here are some of the things I am working on/messing with:
 
+* Learning **Remix**/**React Router**
+* Studying for the **AWS Certified Cloud Practitioner** (CLF-C02) certification
 * **Ansible** to maintain configuration for services such as BIND and Icinga2
 * **React**/**Next.js**/**GraphQL**
-
-## Things (for Me) to Check Out
-
-* ~~Audinate's Dante Certification Program~~ Certified levels 1, 2, and 3 September 2023
