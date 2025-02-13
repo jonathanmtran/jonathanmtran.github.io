@@ -11,6 +11,7 @@ title: Jonathan M. Tran
 
 ## Recently Blogged
 
+* [Onsite Stack Ansible Playbook](https://blog.jonathanmtran.com/2025/02/onsite-stack-ansible-playbook/)
 * [Create a metadata XMP sidecar file using exiftool](https://blog.jonathanmtran.com/2025/02/create-metadata-xmp-sidecar-file-using-exiftool/)
 * [Delegate ACME challenges to another nameserver](https://blog.jonathanmtran.com/2020/05/delegate-acme-challenges-to-another-nameserver/)
 
