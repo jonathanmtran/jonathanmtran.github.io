@@ -11,6 +11,7 @@ title: Jonathan M. Tran
 
 ## Recently Blogged
 
+* [Running a reverse proxy to serve services on the Internet](https://blog.jonathanmtran.com/2025/02/running-a-reverse-proxy-to-serve-services-on-the-internet/), Posted 2025-02-15
 * [Onsite Stack Ansible Playbook](https://blog.jonathanmtran.com/2025/02/onsite-stack-ansible-playbook/)
 * [Create a metadata XMP sidecar file using exiftool](https://blog.jonathanmtran.com/2025/02/create-metadata-xmp-sidecar-file-using-exiftool/)
 * [Delegate ACME challenges to another nameserver](https://blog.jonathanmtran.com/2020/05/delegate-acme-challenges-to-another-nameserver/)
