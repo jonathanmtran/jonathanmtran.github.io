@@ -11,11 +11,11 @@ title: Jonathan M. Tran
 
 ## Recently Blogged
 
+* [Unable to play audio on GNOME and Firefox](https://blog.jonathanmtran.com/2025/06/unable-to-play-audio-on-gnome-and-firefox/?ref=github)
+* [wAP ax 5 GHz Wi-Fi not appearing on devices](https://blog.jonathanmtran.com/2025/06/wap-ax-5-ghz-wi-fi-not-appearing-on-devices/?ref=github)
 * [Binding container port(s) to a specific IP address](https://blog.jonathanmtran.com/2025/03/binding-container-ports-to-a-specific-ip-address/)
 * [Containerizing my PHP application from the 2010s](https://blog.jonathanmtran.com/2025/03/containerizing-my-php-application-from-the-2010s/)
 * [Configuring Pi-hole v6 with a TLS certificate](https://blog.jonathanmtran.com/2025/02/configuring-pi-hole-v6-with-a-tls-certificate/) Posted 2025-02-19
-* [My 2025 updated approach to organizing photos](https://blog.jonathanmtran.com/2025/02/my-2025-updated-approach-to-organizing-photos/), Posted 2025-02-18
-* [Running a reverse proxy to serve services on the Internet](https://blog.jonathanmtran.com/2025/02/running-a-reverse-proxy-to-serve-services-on-the-internet/), Posted 2025-02-15
 
 ## What Am I Up To?
 
