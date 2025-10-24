@@ -12,11 +12,11 @@ title: Jonathan M. Tran
 
 ## Recently Blogged
 
+* [How I Use Syncthing (2025)](https://blog.jonathanmtran.com/2025/10/how-i-use-syncthing-2025/?ref=github)
 * [How I Use Ansible (2025)](https://blog.jonathanmtran.com/2025/10/how-i-use-ansible-2025/?ref=github)
 * [Things Learned While Rebuilding My Proxmox Cluster](https://blog.jonathanmtran.com/2025/06/things-learned-while-rebuilding-my-proxmox-cluster/?ref=github)
 * [Unable to play audio on GNOME and Firefox](https://blog.jonathanmtran.com/2025/06/unable-to-play-audio-on-gnome-and-firefox/?ref=github)
 * [wAP ax 5 GHz Wi-Fi not appearing on devices](https://blog.jonathanmtran.com/2025/06/wap-ax-5-ghz-wi-fi-not-appearing-on-devices/?ref=github)
-* [Binding container port(s) to a specific IP address](https://blog.jonathanmtran.com/2025/03/binding-container-ports-to-a-specific-ip-address/)
 
 ## What Am I Up To?
 
