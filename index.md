@@ -11,12 +11,11 @@ title: Jonathan M. Tran
 * [LinkedIn](https://www.linkedin.com/in/jonathanmtran)
 
 ## Recently Blogged
-
+* [2025 Homelab Snapshot](https://blog.jonathanmtran.com/2025/12/2025-homelab-snapshot/?ref=github)
+* [Archiving E-mails with Dovecot and imapsync](https://blog.jonathanmtran.com/2025/11/archiving-e-mails-with-dovecot-and-imapsync/?ref=github)
 * [How I Use Syncthing (2025)](https://blog.jonathanmtran.com/2025/10/how-i-use-syncthing-2025/?ref=github)
 * [How I Use Ansible (2025)](https://blog.jonathanmtran.com/2025/10/how-i-use-ansible-2025/?ref=github)
 * [Things Learned While Rebuilding My Proxmox Cluster](https://blog.jonathanmtran.com/2025/06/things-learned-while-rebuilding-my-proxmox-cluster/?ref=github)
-* [Unable to play audio on GNOME and Firefox](https://blog.jonathanmtran.com/2025/06/unable-to-play-audio-on-gnome-and-firefox/?ref=github)
-* [wAP ax 5 GHz Wi-Fi not appearing on devices](https://blog.jonathanmtran.com/2025/06/wap-ax-5-ghz-wi-fi-not-appearing-on-devices/?ref=github)
 
 ## What Am I Up To?
 
